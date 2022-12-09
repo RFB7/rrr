@@ -1,0 +1,97 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+
+.container{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.stick{
+	width: 15%;
+	height: 3vh;
+	background-color: darkgray;
+	margin-top: 1%;
+	margin-left: 2%;
+}
+
+.bottom1{
+	width: 2%;
+	height: 4vh;
+	background-color: darkgray;
+	margin-top: 1%;
+	margin-left: 74%;
+	margin-right: 0.5%;
+}
+
+.bottom2{
+	width: 2%;
+	height: 4vh;
+	background-color: darkgray;
+	margin-top: 1%;
+	margin-right: 0.5%;
+}
+
+.bottom3{
+	width: 2%;
+	height: 4vh;
+	background-color: darkgray;
+	margin-top: 1%;
+	margin-right: 0.5%;
+}
+
+.catarcup{
+	width: 96%;
+	height: 25vh;
+	background-color: darkgray;
+	margin-top: 2%;
+	margin-left: 2%;
+}
+
+.worldcup{
+	width: 20%;
+	height: 147.7vh;
+	background-color: darkgray;
+	margin-top: 2%;
+	margin-left: 2%;
+}
+
+p{
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-bottom: 58%;
+}
+
+.square{
+	width: 38.7%;
+	height: 50.5vh;
+	background-color: darkgray;
+	margin-top: 2%;
+	margin-left: 2%;
+}
+
+.squares {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+	height: 155vh;
+	width: 35vw;
+}
+
+.squares div {
+	width: 50%;
+	height: 13.5%;
+	background-color: pink;
+	margin: 0.5em;
+	margin-left: 1.5em;
+}
+
+.squares div p{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+	margin: 5em;
+	margin-left: 10%;
+}
